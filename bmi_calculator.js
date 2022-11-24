@@ -18,4 +18,5 @@ if (bmi <= 18.5) {
     output = "OBESE";
 }
 
-console.log("Your BMI value is " +bmi.toFixed(0)+ " and you are : "+output);
+
+console.log("Your BMI value is " +bmi.toFixed(0)+ " and you are : "+output );
